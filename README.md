@@ -7,7 +7,6 @@ This project simulates the **Link-State Routing Algorithm** using Python and the
 - Parse a custom text input defining nodes and directed edges.
 - Visualize the original network topology.
 - Calculate and display the **forwarding table** for each node (using Dijkstra’s algorithm).
-- Bonus: Visual representation of Dijkstra’s steps per node.
 
 ---
 
